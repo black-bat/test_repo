@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 first line
 second line - 2
 third line - 3
+=======
+thirst line
+>>>>>>> 1f7ebd5 (add thirst line)
