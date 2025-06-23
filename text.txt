@@ -1,2 +1,2 @@
-thirst line
+first line
 second line - 2
